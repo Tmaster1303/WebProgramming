@@ -1,0 +1,51 @@
+.outer {
+    border: 10px solid white;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    background-image: url("music-flower.jpg");
+}
+
+.inner1{
+    background-color: #A8F0F0;
+    text-align: right;
+}
+
+.inner2{
+    font-size: 14px;
+}
+
+.text{
+    border: 4px solid #C2E9E9;
+    background-color: #E8FBFB;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: justify;
+}
+
+.date{
+    border-bottom: 2px dashed cyan;
+}
+
+.picture {
+    float: right;
+}
+
+.last {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    float: left;
+    width: 150px;
+    margin-top: 10px;
+    padding-left: 8px;
+    border: 4px solid #009097;
+    border-radius: 15px;
+    background-color: #A8F0F0;
+}
