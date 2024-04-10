@@ -1,0 +1,189 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header{
+    
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    
+}
+.logo{
+    border: 0px solid black;
+    height: 80px;
+    width: 10%;
+    background-image: url("../images/logo2.png");
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    margin-left: 100px;
+}
+.menu{
+
+    height: 100%;
+    width: 80%;
+    float: right;
+}
+
+ul.listmenu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 60%;
+    line-height: 50px;
+}
+
+ul.listmenu li{
+    float:left;
+    margin: 5px;
+    padding: 10px;
+}
+
+ul.listmenu li:hover{
+    background-color: darkslategrey;
+}
+
+ul.listmenu li a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+.main{
+    
+    height: 750px;
+    width: 100%;
+}
+.slidebar{
+   
+    height: 740px;
+    width: 18%;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+}
+ul.listslidebar{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+    line-height: 50px;
+}
+
+ul.listslidebar li{
+    float:left;
+    margin: 5px;
+    padding: 10px;
+    width: 100%;
+}
+
+ul.listslidebar li:hover{
+    background-color: darkslategrey;
+}
+
+ul.listslidebar li a{
+    text-decoration: none;
+    text-align: left;
+    color: rgb(17, 12, 12);
+    display: block;
+}
+
+.maincontent{
+
+    height: 740px;
+    width: 79%;
+    margin-top: 5px;
+    margin-left: 0px;
+    float: right;
+}
+.product_list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+}
+
+.product_list li{
+    width: 19%;
+    margin: 5px;
+    float: left;
+}
+.product_list img{
+    width: 100%;
+}
+.product_list a{
+    text-decoration: none;
+}
+
+.title-product{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+}
+
+.clear{
+    clear: both;
+}
+
+.footer{
+    
+    height: 150px;
+    width: 100%;
+}
+.footer-logo{
+    height: 100%;
+    width: 9%;
+   
+    float: left;
+}
+.footer-logo img{
+    height: 100%;
+    width: 100%;
+}
+.footer-left{
+    height: 100%;
+    width: 30%;
+    
+    float: left;
+}
+
+.footer-center{
+    height: 100%;
+    width: 30%;
+    
+    float: left;
+}
+
+.footer-right{
+    height: 100%;
+    width: 30%;
+    
+    float:left;
+}
+
+.footer li{
+    font-size: 18px;
+}
+
+.footer p{
+    font-size: 20px;
+    margin-left: 5px;
+    font-weight: bold;
+}
