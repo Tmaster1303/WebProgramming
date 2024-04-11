@@ -20,6 +20,8 @@
         include("slidebar/slidebar.php");
     }elseif($temp=='Aboutus'){
         include("main/Aboutus.php");
+    }elseif($temp=='Signin'){
+        include("main/Signin.php");
     }else{
         include("main/index.php");
     }

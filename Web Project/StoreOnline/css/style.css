@@ -25,27 +25,27 @@ body{
     float: left;
     background-repeat: no-repeat;
     background-size: 100% 80px;
-    margin-left: 100px;
 }
 .menu{
-
     height: 100%;
-    width: 80%;
-    float: right;
+    width: 90%;
+    
 }
 
 ul.listmenu{
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     list-style: none;
     width: 60%;
-    line-height: 50px;
+    line-height: 60px;
+    margin-left: 10%;
+    
 }
 
 ul.listmenu li{
     float:left;
     margin: 5px;
-    padding: 10px;
+    padding: 5px;
 }
 
 ul.listmenu li:hover{
@@ -55,8 +55,11 @@ ul.listmenu li:hover{
 ul.listmenu li a{
     text-decoration: none;
     text-align: center;
-    color: white;
+    color: red;
 }
+
+
+
 
 .main{
     
