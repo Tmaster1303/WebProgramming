@@ -2,7 +2,7 @@
 <div class="footer">
     <div class="footer-logo"><a href="https://www.ctu.edu.vn/"><img class="img" src="images\ctulogo.jpg" alt="CTU LOGO"></a>
     </div>
-    <div class="footer-left">
+    <div class="footer__left">
         <p class="t">Lập Trình Website - Web Propramming</p>
         <ul>
             <li><b>Mã HP:</b> CT104H</li>
@@ -10,7 +10,7 @@
             <li><b>Gmail:</b> tcan@cit.ctu.edu.vn</li>
         </ul>
     </div>
-    <div class="footer-center">
+    <div class="footer__center">
     <p class="t">Sinh Viên Thực Hiện</p>
         <ul>
             <li><b>Sinh Viên:</b> Trần Văn Sang</li>
@@ -21,7 +21,7 @@
     
 
     </div>
-    <div class="footer-right">
+    <div class="footer__right">
     <p class="t">Sinh Viên Thực Hiện</p>
         <ul>
             <li><b>Sinh Viên:</b> Nguyễn Duy Thanh</li>
